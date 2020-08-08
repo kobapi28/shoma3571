@@ -1,4 +1,6 @@
 # Profile
+![shoma3571's github stats](https://github-readme-stats.vercel.app/api?username=shoma3571&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoma3571&theme=radical)
 
 ## About me
 - Name : Shoma Kobayashi
