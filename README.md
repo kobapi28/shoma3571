@@ -5,15 +5,25 @@
 # About me
 - Name : Shoma Kobayashi
 - School : SNCT
-- Age: 17
+- Age: 18
 
 # What is interested
-- UI,UXdesign
+- UI,UXデザインを含むプロジェクトのデザイン、フロントエンド
 
 # What can I do
-- Vue.js
-- Nuxt.js
+### Languages
+- JavaScript
+- TypeScript
+- Kotlin
+- C++
+- (Python)
+
+### Frameworks
+- Vue.js / Nuxt.js
 - Angular
+- (React)
+- Ionic
+- (Android)
 
 # Links
 - [Qiita](https://qiita.com/shoma3571)
