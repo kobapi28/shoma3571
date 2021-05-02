@@ -1,5 +1,5 @@
 # Profile
-<a><img src="https://github-readme-stats.vercel.app/api?username=shoma3571&show_icons=true&theme=gradient&line_height=40" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=shoma3571&show_icons=true&theme=radical&line_height=40" /></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoma3571&layout=compact&theme=radical" /></a>
 
 # About me
