@@ -31,5 +31,5 @@
 - [Zenn](https://zenn.dev/shochan)
 - [Twitter](https://twitter.com/shoma28_)
 - [Portfolio](https://shoma-profile.netlify.app)
-- [blog](https://shochan.dev)
+- [blog](https://blog.shochan.dev)
 
